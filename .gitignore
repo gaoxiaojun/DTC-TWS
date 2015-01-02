@@ -1,3 +1,9 @@
+# temp dir
+bld/
+
+# Qt Project
+*.pro.user
+
 # Compiled Object files
 *.slo
 *.lo
